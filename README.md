@@ -11,13 +11,13 @@ The dashboard helps organizations understand why employees leave and how to impr
 🎯 Objectives
 
 - Analyze employee attrition trends
-  
--Identify high-risk departments and job roles
+
+- Identify high-risk departments and job roles
 
 - Understand impact of salary, age, and job satisfaction
 
 - Provide data-driven recommendations for HR decision-making
-
+  
 ---
 
 🛠️Tools & Technologies
